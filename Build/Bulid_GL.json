@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Phone_Data",
+"dataUrl": "Bulid_GL.data.unityweb",
+"wasmCodeUrl": "Bulid_GL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Bulid_GL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Bulid_GL.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
